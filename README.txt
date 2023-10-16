@@ -18,3 +18,4 @@ pip install requests
 python DDos-mini.py
 ==========================================
 (ПРОШУ ПРИ КОПИРОВАНИИ КОДА В ИНФОРМАЦИИ УПОМИНАТЬ МЕНЯ-dizzzackl)
+И ПОДПИШИСЬ НА МОЙ ТГ КАНАЛ https://t.me/norka_Dizzzackla
